@@ -73,6 +73,17 @@ Digital financial services also recorded high levels of adoption. Mobile money a
 
 Despite overall progress, the analysis indicates that gender disparities remain in account ownership, with men recording higher average values than women across the observed years.
 
+## Visual Highlights
+
+### Global Financial Inclusion
+![Global Financial Inclusion](global-financial-inclusion.png)
+
+### Gender Gap in Financial Inclusion
+![Gender Gap](gender-gap.png)
+
+### Kenya vs Sub-Saharan Africa vs Global
+![Kenya Comparison](kenya-comparison.png)
+
 ## Statistical Analysis
 
 A paired t-test was used to compare matched male and female observations.
